@@ -241,6 +241,8 @@ nano usk.conf
 ```
 
 ```
+nano absen.conf
+
 <VirtualHost *:80>
         # The ServerName directive sets the request scheme, hostname and port that
         # the server uses to identify itself. This is used when creating
@@ -284,10 +286,14 @@ Lalu buka domain kalian di web browser
 
 <img width="678" alt="image" src="https://github.com/soulahuden/xtkj3/assets/106908185/ff3521fd-c905-42f8-95ac-0f43f601b8b8">
 
+Lalu isi database name dengan database yang kalian buat sesuai namanya. Masukkan username root dan password yang sudah kalian buat, lalu Submit. 
 <img width="669" alt="image" src="https://github.com/soulahuden/xtkj3/assets/106908185/f61a6b9f-ca67-434c-8f0a-c680726d7357">
 
 
+Setelah itu isi dibawah ini semua seterah kalian .
 <img width="598" alt="image" src="https://github.com/soulahuden/xtkj3/assets/106908185/853322aa-afe3-4b28-a486-c823c9be0248">
 
-
+Wordpress Berhasil terinstall dengan DNS
 <img width="855" alt="image" src="https://github.com/soulahuden/xtkj3/assets/106908185/2ec1e363-e50e-4f39-b661-49063af407ac">
+
+Lakukan hal yang sama di domain kalian yang satu lagi.
