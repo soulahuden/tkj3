@@ -1,4 +1,3 @@
-![image](https://github.com/soulahuden/tkj3/assets/106908185/c55243e4-dffa-441e-bd5e-3cb6dbb3591a)
 Langkah awal (tidak usah jika sudah)
 ```
 #apt update
@@ -132,6 +131,7 @@ Jika seperti ini berarti sudah berhasil terbuat
 
 Setelah itu kalian ke paling bawah, tambahkan "SNMP - Interface Statistics" seperti dibawah, lalu Add : 
 ![image](https://github.com/soulahuden/tkj3/assets/106908185/d664f558-1c80-42ba-b261-24f1340d6d8a)
+
 
 Lalu verify all di keduanya : 
 ![image](https://github.com/soulahuden/tkj3/assets/106908185/133a1064-3da9-474f-9dc1-63ca6d625e8e)
