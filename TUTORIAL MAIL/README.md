@@ -83,6 +83,8 @@ trus ubah kek dibawah,pagernya apus, sisain bintang aje :
 
 <img width="202" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/fb6e2af8-bddc-4aec-8819-5e2e42727f51">
 
+
+
 Edit file konfigurasi /etc/dovecot/conf.d/10-auth.conf : 
 ```
 #nano /etc/dovecot/conf.d/10-auth.conf
@@ -96,10 +98,14 @@ apus pagernye trus ganti yes jadi no
 <img width="298" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/479feb3c-bcf7-4586-b9ed-93f43e8cc23d">
 
 
+
+
 Edit file konfigurasi /etc/dovecot.conf.d/10-mail.conf :
 ```
 #nano /etc/dovecot/conf.d/10-mail.conf
 ```
+
+
 
 trus cari mail_location trus pagernya apuss kek dibawah 
 
