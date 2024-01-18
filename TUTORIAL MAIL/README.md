@@ -36,27 +36,32 @@ abis itu konfigurasi ulang :
 #dpkg-reconfigure postfix
 ```
 
-
+yang ini kosongin 
 <img width="816" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/cab4a495-62b3-4734-aa51-2d45fb1c5ff4">
 
 
 
+Masukkan localhost dan domain kalian
 <img width="758" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/848fd5de-119c-4bcf-98d6-674d089402cb">
 
 
+Pilih "Yes"
 <img width="806" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/208170da-84ad-4d78-b0b0-b5f77eb9e77a">
 
 
+Masukkan ip linux kalian dan 0.0.0.0/0
 <img width="812" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/d353d1a0-37fd-4783-b675-c9f203184fa8">
 
 
+Ini OK aja 
 <img width="813" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/e6e4dd2a-d942-4605-b7dc-aed8f24c6545">
 
 
+Ini OK aja 
 <img width="623" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/c3d1232f-87ca-45f8-8d93-23edabbc02c7">
 
 
-
+Pilih ipv4 
 <img width="809" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/b916de19-d056-4e36-8286-441413d1703b">
 
 
