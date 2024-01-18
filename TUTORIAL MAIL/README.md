@@ -161,7 +161,8 @@ ubah default host dengan domain kalian
 ganti smpt server dengan domain kalian 
 
 
-<img width="294" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/cbe9e90d-80d1-4605-a26a-7b643e847f78">
+<img width="303" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/cab7af9d-67aa-4001-8575-c129847f2ec5">
+
 
 Ubah portnya menjadi 25 
 
