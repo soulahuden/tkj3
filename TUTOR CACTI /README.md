@@ -140,11 +140,21 @@ Setelah itu kalian ke paling bawah, tambahkan "SNMP - Interface Statistics" sepe
 Lalu verify all di keduanya : 
 ![image](https://github.com/soulahuden/tkj3/assets/106908185/133a1064-3da9-474f-9dc1-63ca6d625e8e)
 
-Setelah itu kalian ke Device lagi, trus centang device yang tdi kalian sudah buat, trus pilih "Place on a Tree (Default Tree)" 
+Setelah itu kalian ke Device lagi, trus centang device yang tdi kalian sudah buat, trus pilih "Place on a Tree (Default Tree)" trus Go 
 <img width="929" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/2d2aa06c-a190-48be-b23b-c161c09efa71">
 
+Kalau sudah "Up", kalian ke "New Graphs" trus pilih device kalian, kek dibawah 
+<img width="634" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/5b53a869-eaea-417b-b974-ac6bf6307754">
 
 
+trus centang, trus pilih "In/Out Bytes" trus create 
+<img width="929" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/5251c77a-fd2f-4de1-b6ce-841b5166367a">
 
+
+Setelah itu kalian ke **Graphs** 
+
+<img width="919" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/82412acc-c0a9-4ab8-8b90-5f84bb0fe003">
+
+dah kelar.
 
 
