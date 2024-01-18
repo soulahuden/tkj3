@@ -123,7 +123,9 @@ Buka domain cacti yang telah klean buat, disini domain saya adalah cacti.usk1366
 Lalu kalian Create "New Device".\
 Ubah "Description"nya terserah klean. \
 Ubah "hostname" nya menjadi ip linux kalian. \ 
+
 Ubah "SNMP Community String" menjadi nama kalian yang kalian isi di **/etc/snmp/snmpd.conf**. \ 
+
 Lalu Create! 
 ![image](https://github.com/soulahuden/tkj3/assets/106908185/106a3473-8192-45e6-91d6-6f1d08bb732e)
 
