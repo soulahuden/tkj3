@@ -91,6 +91,8 @@ Edit file konfigurasi /etc/dovecot/conf.d/10-auth.conf :
 trus cari "disable_plaintext_auth" trus ganti dah kek di bawah 
 
 apus pagernye trus ganti yes jadi no
+
+
 <img width="298" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/479feb3c-bcf7-4586-b9ed-93f43e8cc23d">
 
 
@@ -214,7 +216,10 @@ Trus kita buat konfigurasi buat mail di sites-available
 #nano mail.conf
 ```
 
+
 <img width="368" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/cf990236-f456-413b-a178-30ce2525e6f6">
+
+
 
 aktifkan file mail.conf dan restart apache2 : 
 ```
@@ -231,10 +236,12 @@ Oh iya jan lupa buat DNS buat mail nya :
 ```
 
 db.absen
+
 <img width="452" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/5bba5b24-5370-4df4-bc4e-f936124c3785">
 
 
 db.192
+
 <img width="356" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/f33e2f7f-687f-422e-9944-45e05574f7ef">
 
 
