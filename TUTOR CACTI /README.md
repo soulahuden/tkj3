@@ -104,6 +104,8 @@ Lalu edit file /usr/share/cacti/site/include/config.php :
 ```
 
 Lalu ubah konfigurasi seperti dibawah : 
+
+
 ![image](https://github.com/soulahuden/tkj3/assets/106908185/4e7a967a-fb9d-4498-a0fc-e5beb9d504a3)
 
 
