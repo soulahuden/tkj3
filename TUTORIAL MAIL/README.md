@@ -37,6 +37,8 @@ abis itu konfigurasi ulang :
 ```
 
 yang ini kosongin 
+
+
 <img width="816" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/cab4a495-62b3-4734-aa51-2d45fb1c5ff4">
 
 
@@ -197,25 +199,36 @@ trus pilih yang "en_US" (males ss)
 
 trus pilih yes
 
+
 <img width="817" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/a0a74a63-2e13-49c6-a950-d72673eb70ea">
 
 
 Pilih "TCP/IP"
+
+
 <img width="801" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/7bdfdc3d-3ed7-4fd9-b08a-5b6e490cf581">
 
 Pilih "new host"
+
+
 <img width="623" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/0fafc382-200c-499a-b3a3-ec42fd662bbf">
 
 
 Masukkin Password elu
+
+
 <img width="815" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/f1a643a3-7da5-42c0-8740-886943ae3646">
 
 
 ini root 
+
+
 <img width="801" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/8cf98bbd-ed09-40b8-9e72-e254716ee9e2">
 
 
 Pilih yang apache2 aja 
+
+
 <img width="669" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/79068b2e-c658-4b6e-9ac8-3c4ae0818162">
 
 
