@@ -1,4 +1,4 @@
-## jan dicobain dlu tutor nya beloman kelar
+
 kek biasa langkah awal : 
 
 ```
