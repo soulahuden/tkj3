@@ -42,18 +42,26 @@ yang ini kosongin
 
 
 Masukkan localhost dan domain kalian
+
+
 <img width="758" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/848fd5de-119c-4bcf-98d6-674d089402cb">
 
 
 Pilih "Yes"
+
+
 <img width="806" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/208170da-84ad-4d78-b0b0-b5f77eb9e77a">
 
 
 Masukkan ip linux kalian dan 0.0.0.0/0
+
+
 <img width="812" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/d353d1a0-37fd-4783-b675-c9f203184fa8">
 
 
 Ini OK aja 
+
+
 <img width="813" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/e6e4dd2a-d942-4605-b7dc-aed8f24c6545">
 
 
@@ -64,6 +72,8 @@ Ini OK aja
 
 
 Pilih ipv4 
+
+
 <img width="809" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/b916de19-d056-4e36-8286-441413d1703b">
 
 
@@ -185,26 +195,30 @@ ini kosongin ae
 trus pilih yang "en_US" (males ss)
 
 
-trus pilih no, gausah install database ulang : 
+trus pilih yes
 
 <img width="817" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/a0a74a63-2e13-49c6-a950-d72673eb70ea">
 
 
+Pilih "TCP/IP"
 <img width="801" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/7bdfdc3d-3ed7-4fd9-b08a-5b6e490cf581">
 
+Pilih "new host"
 <img width="623" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/0fafc382-200c-499a-b3a3-ec42fd662bbf">
 
+
+Masukkin Password elu
 <img width="815" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/f1a643a3-7da5-42c0-8740-886943ae3646">
 
+
+ini root 
 <img width="801" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/8cf98bbd-ed09-40b8-9e72-e254716ee9e2">
 
+
+Pilih yang apache2 aja 
 <img width="669" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/79068b2e-c658-4b6e-9ac8-3c4ae0818162">
 
 
-Pilih apache2 aja 
-
-
-<img width="406" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/77ca2b0b-63d9-48f6-be27-d5210b9dd83e">
 
 Restart.
 
