@@ -223,6 +223,26 @@ Ini kosongin
 <img width="825" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/238a4673-a5de-4035-9268-58398b29adab">
 
 
+Ini tinggal OK aja 
+
+<img width="814" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/06355d6e-09f3-449f-9f73-51e433c614c2">
+
+Pilih "default"
+
+<img width="807" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/430c570c-0df1-461f-8bfe-15cd4b87c0e6">
+
+
+Ini tinggal OK 
+
+<img width="527" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/e4f4f20c-8f34-49cd-a22d-37856de80861">
+
+
+Ini juga tinggal OK-in aja
+
+<img width="765" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/db613d43-7a02-49bf-b676-eeb18e492480">
+
+
+
 Masukkin Password elu
 
 
