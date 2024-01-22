@@ -35,6 +35,10 @@ abis itu konfigurasi ulang :
 ```
 #dpkg-reconfigure postfix
 ```
+### Pilih "Internet Site" 
+
+### Domain nya yang tadi, tinggal ok aja 
+
 
 yang ini kosongin 
 
@@ -212,6 +216,11 @@ Pilih "new host"
 
 
 <img width="623" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/0fafc382-200c-499a-b3a3-ec42fd662bbf">
+
+Ini kosongin 
+
+
+<img width="825" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/238a4673-a5de-4035-9268-58398b29adab">
 
 
 Masukkin Password elu
