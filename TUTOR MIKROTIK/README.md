@@ -56,13 +56,16 @@ Ke wireless, Enable-in wlan nya dulu
 
 
 Trus ke **Security Profiles**, 
+
 Tambahin security profilenya, Ganti mode nya jadi **dynamic keys**, trus masukin passwordnya sesuai soal
+
 Disini gua passwordnya ueska2023, trus Apply
 
 ![image](https://github.com/soulahuden/tkj3/assets/106908185/8318e5f1-a407-49c3-ae3a-6a1ac2df0713)
 
 
 Trus balik lagi ke **interfaces**, klik **wlan1** nya, Trus ke **wireless**
+
 Ganti **Mode** nya jadi ap bridge, **SSID** nya sesuai soal, trus masukin **Security Profilenya** yg tadi lu buat
 
 
@@ -74,13 +77,16 @@ Ganti **Mode** nya jadi ap bridge, **SSID** nya sesuai soal, trus masukin **Secu
 
 
 Ke Firewall, trus **Layer7 Protocols**, isi nama sterah, trus website yang mau di block,  trus Apply
+
 Trus ke Filter Rules
 
 ![image](https://github.com/soulahuden/tkj3/assets/106908185/6ed2b9ec-2d67-49d7-8100-d9b10281c41e)
 
 
 Trus ke **Filter Rules, tambahin rulenya, Trus ke **Advanced**
+
 Pilih layer7 protocolnya sama yg tadi udh di buat.
+
 Trus ke action, pilih **drop** trus Apply
 
 
@@ -93,7 +99,9 @@ Trus ke action, pilih **drop** trus Apply
 
 
 Ke Queues, Tambahin queueueuesnya.
+
 Targetnya ke ip lu, Max limit Uploadnya jadi **512k**(itu Digambar salah) sama Downloadnya jadi **1M**, trus apply 
+
 Bisa juga queuesnya masing-masing ip , jadi buat atu atu, ga kayak Digambar bawah langsung satu network
 
 
@@ -110,7 +118,9 @@ Ke **Firewall** trus ke **NAT** yang tadi udh lu buat, trus ke **Extra**, tambah
 
 
 Cara ngetest waktu aktifnya, Ke System > Clock, trus ganti jamnya jadi jam diluar jam aktif
+
 Tadi kan aktifnya dari jam 07:00 sampe 19:00
+
 Ganti dah, misalnya jadi jam 05:00
 
 
