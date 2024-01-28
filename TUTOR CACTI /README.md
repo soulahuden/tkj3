@@ -127,28 +127,32 @@ Ubah "hostname" nya menjadi ip linux kalian. \
 Ubah "SNMP Community String" menjadi nama kalian yang kalian isi di **/etc/snmp/snmpd.conf**. \ 
 
 Lalu Create! 
-![image](https://github.com/soulahuden/tkj3/assets/106908185/106a3473-8192-45e6-91d6-6f1d08bb732e)
+![image](https://github.com/soulahuden/tkj3/assets/106908185/b5f50187-2e9a-4e95-afac-3b1c9839e8cc)
+
 
 Jika seperti ini berarti sudah berhasil terbuat 
 ![image](https://github.com/soulahuden/tkj3/assets/106908185/cdca04a2-3f52-459b-9b24-036720aa48a8)
 
 
 Setelah itu kalian ke paling bawah, tambahkan "SNMP - Interface Statistics" seperti dibawah, lalu Add : 
-![image](https://github.com/soulahuden/tkj3/assets/106908185/d664f558-1c80-42ba-b261-24f1340d6d8a)
+![image](https://github.com/soulahuden/tkj3/assets/106908185/4c45d51a-e3e9-4fec-b184-533725c548e1)
+
 
 
 Lalu verify all di keduanya : 
 ![image](https://github.com/soulahuden/tkj3/assets/106908185/133a1064-3da9-474f-9dc1-63ca6d625e8e)
 
 Setelah itu kalian ke Device lagi, trus centang device yang tdi kalian sudah buat, trus pilih "Place on a Tree (Default Tree)" trus Go 
-<img width="929" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/2d2aa06c-a190-48be-b23b-c161c09efa71">
+![image](https://github.com/soulahuden/tkj3/assets/106908185/1779b738-112d-4728-bd7f-09ef575bb3fd)
+
 
 Kalau sudah "Up", kalian ke "New Graphs" trus pilih device kalian, kek dibawah 
 <img width="634" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/5b53a869-eaea-417b-b974-ac6bf6307754">
 
 
 trus centang, trus pilih "In/Out Bytes" trus create 
-<img width="929" alt="image" src="https://github.com/soulahuden/tkj3/assets/106908185/5251c77a-fd2f-4de1-b6ce-841b5166367a">
+![image](https://github.com/soulahuden/tkj3/assets/106908185/e7ede6ad-9df0-4ead-b406-f6f1e2ac5f8f)
+
 
 
 Setelah itu kalian ke **Graphs** 
